@@ -7,7 +7,6 @@ XYZ is a courier company. As we appreciate that human capital plays an important
 
 Build suitable model (both R and Python) to answer the above two questions.
 
-Dataset Details:
 Dataset Characteristics: Timeseries Multivariant Number of Attributes: 21
 
 Attribute Information:

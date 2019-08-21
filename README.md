@@ -21,8 +21,8 @@ IV Endocrine, nutritional and metabolic diseases
 V Mental and behavioural disorders
 VI Diseases of the nervous system
 VII Diseases of the eye and adnexa
-  
- VIII Diseases of the ear and mastoid process IX Diseases of the circulatory system
+VIII Diseases of the ear and mastoid process
+IX Diseases of the circulatory system
 X Diseases of the respiratory system
 XI Diseases of the digestive system
 XII Diseases of the skin and subcutaneous tissue
@@ -35,7 +35,8 @@ XVIII Symptoms, signs and abnormal clinical and laboratory findings, not elsewhe
 XIX Injury, poisoning and certain other consequences of external causes
 XX External causes of morbidity and mortality
 XXI Factors influencing health status and contact with health services.
-And 7 categories without (CID) patient follow-up (22), medical consultation (23), blood donation (24), laboratory examination (25), unjustified absence (26), physiotherapy (27), dental consultation (28).
+And
+7 categories without (CID) patient follow-up (22), medical consultation (23), blood donation (24), laboratory examination (25), unjustified absence (26), physiotherapy (27), dental consultation (28).
 3. Month of absence
 4. Day of the week (Monday (2), Tuesday (3), Wednesday (4), Thursday (5), Friday (6)) 5. Seasons (summer (1), autumn (2), winter (3), spring (4))
 6. Transportation expense
@@ -45,7 +46,8 @@ And 7 categories without (CID) patient follow-up (22), medical consultation (23)
 10. Work load Average/day
 11. Hit target
 12. Disciplinary failure (yes=1; no=0)
-13. Education (high school (1), graduate (2), postgraduate (3), master and doctor (4)) 14. Son (number of children)
+13. Education (high school (1), graduate (2), postgraduate (3), master and doctor (4))
+14. Son (number of children)
 15. Social drinker (yes=1; no=0)
 16. Social smoker (yes=1; no=0)
 17. Pet (number of pet)
